@@ -1,0 +1,6 @@
+export interface Post {
+  title: string;
+  author: string;
+  content: string;
+  datePosted: string;
+}
