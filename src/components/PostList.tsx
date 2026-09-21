@@ -4,7 +4,7 @@ import Post from './Post';
 const posts: PostType[] = [
   {
     title: "Getting Started with TypeScript",
-    author: "Kadi Koita ",
+    author: "Kadi Koita",
     content: "TypeScript adds static typing on top of JavaScript, catching errors before runtime and improving editor support.",
     datePosted: "2026-09-18",
   },
