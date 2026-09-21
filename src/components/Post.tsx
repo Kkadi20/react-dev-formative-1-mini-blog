@@ -1,5 +1,5 @@
 import type { Post as PostType } from '../types';
-
+import './Post.css';
 interface PostProps {
   post: PostType;
 }

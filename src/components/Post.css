@@ -1,0 +1,25 @@
+.post {
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: left;
+}
+
+.post-title {
+  margin: 0 0 8px 0;
+}
+
+.post-author {
+  color: #888;
+  font-size: 0.9rem;
+  margin: 0 0 8px 0;
+}
+
+.post-preview {
+  margin: 0 0 8px 0;
+}
+
+.post-date {
+  color: #666;
+  font-size: 0.8rem;
+}
