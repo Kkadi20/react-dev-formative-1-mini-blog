@@ -1,5 +1,6 @@
 import type { Post as PostType } from '../types';
 import './Post.css';
+import React from 'react';
 
 interface PostProps {
   post: PostType;
@@ -20,4 +21,4 @@ const Post = ({ post }: PostProps) => {
   );
 };
 
-export default Post;
+export default React.memo(Post);
